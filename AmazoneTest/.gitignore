@@ -1,0 +1,15 @@
+/target/
+
+/.settings/
+/.classpath
+/.metadata
+/.project
+/out
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar
+/bin/
+/.idea/
+*.iml
+tags
+.~lock.*
+debug.log
